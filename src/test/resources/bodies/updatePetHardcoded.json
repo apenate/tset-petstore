@@ -1,0 +1,18 @@
+{
+  "id":9223372036854775807,
+  "category":{
+    "id":0,
+    "name":"someCategory"
+  },
+  "name":"Lucky",
+  "photoUrls":[
+    "http://mypetphotos.com/lucky"
+  ],
+  "tags":[
+    {
+      "id":0,
+      "name":"someTag"
+    }
+  ],
+  "status":"${status}"
+}

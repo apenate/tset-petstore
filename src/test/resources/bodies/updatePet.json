@@ -1,0 +1,15 @@
+{
+  "id": ${petId},
+  "category": {
+    "id": ${categoryId},
+    "name": "${categoryName}"
+  },
+  "name": "${petName}",
+  "photoUrls":
+    ${urls}
+  ,
+  "tags":
+    ${tags}
+  ,
+  "status": "${status}"
+}

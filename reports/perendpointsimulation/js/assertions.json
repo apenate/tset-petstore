@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tset.nft.simulations.petstore.PerEndpointSimulation",
+  "simulationId": "perendpointsimulation",
+  "start": 1684601786666,
+  "description": "",
+  "scenarios": ["Add Pet", "Get Pet", "Update Pet"],
+  "assertions": [
+
+  ]
+}

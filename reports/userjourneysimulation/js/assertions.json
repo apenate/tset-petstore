@@ -1,0 +1,10 @@
+{
+  "simulation": "com.tset.nft.simulations.petstore.UserJourneySimulation",
+  "simulationId": "userjourneysimulation",
+  "start": 1684601481152,
+  "description": "",
+  "scenarios": ["Add, Get then Update a Pet"],
+  "assertions": [
+
+  ]
+}

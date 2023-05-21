@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "someCategory"
+  },
+  "name": "${petName}",
+  "photoUrls": [
+    "${petPhotoUrl}"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "someTag"
+    }
+  ],
+  "status": "available"
+}

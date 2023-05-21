@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 62339,
+        "ok": 62339,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11748,
+        "ok": 11748,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 139,
+        "ok": 139,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 155,
+        "ok": 155,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 104,
+        "ok": 104,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 109,
+        "ok": 109,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 403,
+        "ok": 403,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 553,
+        "ok": 553,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 62033,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 155,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 151,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 259.74583333333334,
+        "ok": 259.74583333333334,
+        "ko": 0
+    }
+},
+"contents": {
+"req_add-pet-35696": {
+        "type": "REQUEST",
+        "name": "Add Pet",
+"path": "Add Pet",
+"pathFormatted": "req_add-pet-35696",
+"stats": {
+    "name": "Add Pet",
+    "numberOfRequests": {
+        "total": 20798,
+        "ok": 20798,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11270,
+        "ok": 11270,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 141,
+        "ok": 141,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 161,
+        "ok": 161,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 105,
+        "ok": 104,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 111,
+        "ok": 111,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 368,
+        "ok": 368,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 540,
+        "ok": 540,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 20699,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 43,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 56,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 86.65833333333333,
+        "ok": 86.65833333333333,
+        "ko": 0
+    }
+}
+    },"req_get-pet-005e4": {
+        "type": "REQUEST",
+        "name": "Get Pet",
+"path": "Get Pet",
+"pathFormatted": "req_get-pet-005e4",
+"stats": {
+    "name": "Get Pet",
+    "numberOfRequests": {
+        "total": 20777,
+        "ok": 20777,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 5711,
+        "ok": 5711,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 128,
+        "ok": 128,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 122,
+        "ok": 122,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 104,
+        "ok": 104,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 108,
+        "ok": 108,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 309,
+        "ok": 309,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 544,
+        "ok": 544,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 20694,
+    "percentage": 100
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 44,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 39,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 86.57083333333334,
+        "ok": 86.57083333333334,
+        "ko": 0
+    }
+}
+    },"req_update-pet-518ad": {
+        "type": "REQUEST",
+        "name": "Update Pet",
+"path": "Update Pet",
+"pathFormatted": "req_update-pet-518ad",
+"stats": {
+    "name": "Update Pet",
+    "numberOfRequests": {
+        "total": 20764,
+        "ok": 20764,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 96,
+        "ok": 96,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 11748,
+        "ok": 11748,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 147,
+        "ok": 147,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 176,
+        "ok": 176,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 104,
+        "ok": 104,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 110,
+        "ok": 110,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 457,
+        "ok": 457,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 569,
+        "ok": 569,
+        "ko": 0
+    },
+    "group1": {
+    "name": "t < 800 ms",
+    "count": 20640,
+    "percentage": 99
+},
+    "group2": {
+    "name": "800 ms < t < 1200 ms",
+    "count": 68,
+    "percentage": 0
+},
+    "group3": {
+    "name": "t > 1200 ms",
+    "count": 56,
+    "percentage": 0
+},
+    "group4": {
+    "name": "failed",
+    "count": 0,
+    "percentage": 0
+},
+    "meanNumberOfRequestsPerSecond": {
+        "total": 86.51666666666667,
+        "ok": 86.51666666666667,
+        "ko": 0
+    }
+}
+    }
+}
+
+}
